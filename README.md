@@ -6,3 +6,14 @@ Featured are:
 * Modular design. Instructions include ADD, SUB, COMPARATOR, SHIFT RIGHT, SHIFT LEFT, CLEAR, etc.
 * Opcode table documenting all operations
 * Example pseudo-assembly programs showcasing instruction behavior
+
+## 🖼 Screenshots
+
+### ALU
+![ALU](assets/ALU.png)
+
+### CPU Overview
+![CPU Overview](assets/CPU.png)
+
+### Circuits Overview
+![Circuits Overview](assets/circuits.png)
